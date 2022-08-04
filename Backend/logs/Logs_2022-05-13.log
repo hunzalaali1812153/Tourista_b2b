@@ -1,0 +1,16 @@
+22:03:49.061 | Info | '/api/user/login' | 
+22:03:53.706 | Info | '/transaction/gettourbyuserid' | 
+22:04:04.602 | Info | '/api/user/login' | 
+22:04:04.766 | Info | '/transaction/gettourbyuserid' | 
+22:04:44.327 | Info | '/api/user/login' | 
+22:04:44.482 | Info | '/transaction/gettourbyuserid' | 
+22:04:47.829 | Info | '/transaction/getlastannouncement' | 
+22:04:52.926 | Info | '/transaction/getcustomer' | 
+22:04:58.323 | Info | '/transaction/getcustomer' | 
+22:04:59.291 | Info | '/transaction/getlastannouncement' | 
+22:06:30.725 | Info | '/transaction/getlastannouncement' | 
+22:06:32.566 | Info | '/transaction/getcustomer' | 
+22:06:40.034 | Info | '/transaction/getcustomer' | 
+22:06:42.988 | Info | '/transaction/getlastannouncement' | 
+22:06:47.291 | Info | '/transaction/getannouncement' | 
+22:06:57.147 | Info | '/transaction/getcustomer' | 

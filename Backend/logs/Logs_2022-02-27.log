@@ -1,0 +1,13 @@
+06:00:32.941 | Info | '/transaction/gethotels' | 
+06:28:49.443 | Info | '/transaction/gethotelshistory' | 
+06:31:34.313 | Info | '/transaction/gethotelshistory' | 
+06:31:59.482 | Info | '/transaction/gethotelshistory' | 
+06:32:15.622 | Info | '/transaction/gethotelshistory' | 
+06:33:12.353 | Info | '/api/user/login' | 
+06:34:13.487 | Info | '/transaction/gethotelshistory' | 
+07:02:48.056 | Info | '/transaction/gettourdetails' | 
+07:03:58.062 | Info | '/transaction/gettourdetails' | 
+07:04:37.423 | Info | '/transaction/gettourdetails1/:test2' | 
+10:43:10.400 | Info | '/transaction/gettourdetails1/:test2' | 
+10:43:18.081 | Info | '/transaction/gettourdetails1/:test2' | 
+10:45:06.190 | Info | '/transaction/gettourdetails' | 

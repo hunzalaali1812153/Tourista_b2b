@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+23:50:30.092 | Info | '/api/user/login' | 
+23:50:30.548 | Info | ({'message':'connect ECONNREFUSED 127.0.0.1:3306','code':'ECONNREFUSED','errno':-4078,'sqlState':undefined,'sqlMessage':undefined}) | 
+23:50:58.806 | Info | '/api/user/login' | 
+23:50:59.621 | Info | '/transaction/gettourbyuserid' | 
+23:51:01.978 | Info | '/transaction/getlastannouncement' | 
+23:51:04.134 | Info | '/transaction/getcustomer' | 
+23:51:14.078 | Info | '/transaction/getEvents' | 
+=======
+23:47:24.612 | Info | '/transaction/myprofile' | 
+23:50:46.656 | Info | '/transaction/myprofile' | 
+23:54:06.393 | Info | '/transaction/myprofile' | 
+23:54:38.393 | Info | '/transaction/myprofile' | 
+23:54:44.276 | Info | '/transaction/myprofile' | 
+23:54:45.378 | Info | '/transaction/myprofile' | 
+23:54:45.439 | Info | '/transaction/gettour' | 
+23:54:47.507 | Info | '/transaction/myprofile' | 
+23:54:47.529 | Info | '/transaction/gettourdetails' | 
+23:55:24.064 | Info | '/transaction/myprofile' | 
+23:55:24.081 | Info | '/transaction/gettourdetails' | 
+23:55:32.837 | Info | '/transaction/myprofile' | 
+23:58:15.180 | Info | '/transaction/myprofile' | 
+23:58:17.222 | Info | '/transaction/myprofile' | 
+23:58:17.260 | Info | '/transaction/gethotelshistory' | 
+23:58:20.907 | Info | '/transaction/myprofile' | 
+23:58:20.929 | Info | '/transaction/gethoteldetails' | 
+23:58:27.606 | Info | '/transaction/myprofile' | 
+23:58:31.531 | Info | '/transaction/myprofile' | 
+23:58:31.543 | Info | '/transaction/gettour' | 
+23:58:33.069 | Info | '/transaction/myprofile' | 
+23:58:33.082 | Info | '/transaction/gettourdetails' | 
+23:58:38.837 | Info | '/transaction/myprofile' | 
+23:58:43.162 | Info | '/transaction/gettourbyuserid' | 
+23:59:57.836 | Info | '/transaction/gettourdetails' | 
+23:59:57.839 | Info | '/transaction/getcustomer' | 
+>>>>>>> aa56c6284a5c3885809d6dcbba59f8ee1221d842

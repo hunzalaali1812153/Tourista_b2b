@@ -1,0 +1,31 @@
+23:33:05.813 | Info | '/api/user/login' | 
+23:33:06.373 | Info | ({'message':'connect ECONNREFUSED 127.0.0.1:3306','code':'ECONNREFUSED','errno':-4078,'sqlState':undefined,'sqlMessage':undefined}) | 
+23:33:12.043 | Info | '/api/user/login' | 
+23:33:12.047 | Info | ({'message':'connect ECONNREFUSED 127.0.0.1:3306','code':'ECONNREFUSED','errno':-4078,'sqlState':undefined,'sqlMessage':undefined}) | 
+23:33:36.824 | Info | '/api/user/login' | 
+23:33:37.891 | Info | '/transaction/gettourbyuserid' | 
+23:33:44.963 | Info | '/transaction/getlastannouncement' | 
+23:33:51.742 | Info | '/transaction/getlastannouncement' | 
+23:33:56.905 | Info | '/transaction/getlastannouncement' | 
+23:34:05.007 | Info | '/transaction/getannouncement' | 
+23:34:17.164 | Info | '/transaction/getcustomer' | 
+23:34:27.005 | Info | '/transaction/getlastannouncement' | 
+23:34:29.176 | Info | '/transaction/getcustomer' | 
+23:34:37.841 | Info | '/transaction/getlastannouncement' | 
+23:34:39.876 | Info | '/transaction/getcustomer' | 
+23:38:45.860 | Info | '/transaction/getlastannouncement' | 
+23:38:47.326 | Info | '/transaction/getcustomer' | 
+23:47:22.148 | Info | '/transaction/getlastannouncement' | 
+23:47:25.165 | Info | '/transaction/getcustomer' | 
+23:47:30.647 | Info | '/transaction/getlastannouncement' | 
+23:48:09.197 | Info | '/transaction/getlastannouncement' | 
+23:48:11.580 | Info | '/transaction/getcustomer' | 
+23:50:09.789 | Info | '/api/user/login' | 
+23:50:09.926 | Info | '/transaction/gettourbyuserid' | 
+23:50:11.941 | Info | '/transaction/getlastannouncement' | 
+23:55:23.608 | Info | '/transaction/myprofile' | 
+23:56:31.147 | Info | '/transaction/gettourbyuserid' | 
+23:56:47.587 | Info | '/transaction/myprofile' | 
+23:58:02.760 | Info | '/transaction/gethotelshistory' | 
+23:58:14.141 | Info | '/transaction/gettransportbyuserid' | 
+23:58:19.142 | Info | '/transaction/gethotelshistory' | 

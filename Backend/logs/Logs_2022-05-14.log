@@ -1,0 +1,10 @@
+23:47:21.360 | Info | '/api/user/login' | 
+23:47:28.862 | Info | '/api/user/login' | 
+23:47:28.960 | Info | '/transaction/myprofile' | 
+23:47:34.398 | Info | '/transaction/gettourbyuserid' | 
+23:49:04.002 | Info | '/transaction/gettourbyuserid' | 
+23:49:20.485 | Info | '/transaction/gettourbyuserid' | 
+23:51:43.087 | Info | '/transaction/gettourbyuserid' | 
+23:55:25.852 | Info | '/transaction/myprofile' | 
+23:55:27.592 | Info | '/transaction/gettourbyuserid' | 
+23:57:02.565 | Info | '/transaction/gettourbyuserid' | 

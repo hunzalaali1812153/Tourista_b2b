@@ -1,0 +1,21 @@
+01:00:40.341 | Info | '/api/user/login' | 
+01:00:40.500 | Info | ({'message':'Unknown database \'kifalat\'','code':'ER_BAD_DB_ERROR','errno':1049,'sqlState':'42000','sqlMessage':'Unknown database \'kifalat\''}) | 
+01:02:26.662 | Info | '/api/user/login' | 
+01:02:43.944 | Info | '/api/user/login' | 
+01:18:08.276 | Info | '/transaction/testapi' | 
+01:19:19.305 | Info | '/transaction/testapi' | 
+01:30:12.902 | Info | '/transaction/testapi2' | 
+01:32:49.523 | Info | '/transaction/testapi2' | 
+01:47:21.156 | Info | '/transaction/testapi2' | 
+01:47:32.146 | Info | '/transaction/testapi2' | 
+02:36:43.094 | Info | '/transaction/testapi3' | 
+02:36:43.104 | Info | ({'code':'MODULE_NOT_FOUND','requireStack':['E:\\NodeJSBoiler\\app.js','E:\\NodeJSBoiler\\bin\\www']}) | 
+02:37:07.146 | Info | '/transaction/testapi3' | 
+02:37:07.158 | Info | ({'code':'MODULE_NOT_FOUND','requireStack':['E:\\NodeJSBoiler\\app.js','E:\\NodeJSBoiler\\bin\\www']}) | 
+02:38:45.067 | Info | '/transaction/testapi2' | 
+02:39:08.148 | Info | '/transaction/testapi3' | 
+02:39:08.152 | Info | ({'code':'MODULE_NOT_FOUND','requireStack':['E:\\NodeJSBoiler\\app.js','E:\\NodeJSBoiler\\bin\\www']}) | 
+02:39:16.798 | Info | '/transaction/testapi3' | 
+02:39:16.801 | Info | ({'code':'MODULE_NOT_FOUND','requireStack':['E:\\NodeJSBoiler\\app.js','E:\\NodeJSBoiler\\bin\\www']}) | 
+02:40:18.967 | Info | '/transaction/testapi3' | 
+02:40:36.923 | Info | '/transaction/testapi3' | 
